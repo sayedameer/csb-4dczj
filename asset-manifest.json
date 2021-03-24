@@ -5,15 +5,15 @@
     "main.js.map": "https://sayedameer.github.io/csb-4dczj/static/js/main.cd84d416.chunk.js.map",
     "runtime-main.js": "https://sayedameer.github.io/csb-4dczj/static/js/runtime-main.911587a0.js",
     "runtime-main.js.map": "https://sayedameer.github.io/csb-4dczj/static/js/runtime-main.911587a0.js.map",
-    "static/js/2.fba799f8.chunk.js": "https://sayedameer.github.io/csb-4dczj/static/js/2.fba799f8.chunk.js",
-    "static/js/2.fba799f8.chunk.js.map": "https://sayedameer.github.io/csb-4dczj/static/js/2.fba799f8.chunk.js.map",
+    "static/js/2.78823f4d.chunk.js": "https://sayedameer.github.io/csb-4dczj/static/js/2.78823f4d.chunk.js",
+    "static/js/2.78823f4d.chunk.js.map": "https://sayedameer.github.io/csb-4dczj/static/js/2.78823f4d.chunk.js.map",
     "index.html": "https://sayedameer.github.io/csb-4dczj/index.html",
     "static/css/main.f29ae65a.chunk.css.map": "https://sayedameer.github.io/csb-4dczj/static/css/main.f29ae65a.chunk.css.map",
-    "static/js/2.fba799f8.chunk.js.LICENSE.txt": "https://sayedameer.github.io/csb-4dczj/static/js/2.fba799f8.chunk.js.LICENSE.txt"
+    "static/js/2.78823f4d.chunk.js.LICENSE.txt": "https://sayedameer.github.io/csb-4dczj/static/js/2.78823f4d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.911587a0.js",
-    "static/js/2.fba799f8.chunk.js",
+    "static/js/2.78823f4d.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
     "static/js/main.cd84d416.chunk.js"
   ]
